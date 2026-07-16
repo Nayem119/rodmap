@@ -68,8 +68,6 @@ A production-grade roadmap covering:
   - [মাস ২৮-৩০: Docker, Kubernetes & CI/CD](#মাস-২৮-৩০-docker-kubernetes--cicd)
   - [মাস ৩১-৩৩: Terraform, ArgoCD & Monitoring](#মাস-৩১-৩৩-terraform-argocd--monitoring)
   - [মাস ৩৪-৩৬: ক্যাপস্টোন প্রজেক্ট](#মাস-৩৪-৩৬-ক্যাপস্টোন-প্রজেক্ট)
-- [🏗️ ক্যাপস্টোন আর্কিটেকচার](#️-ক্যাপস্টোন-আর্কিটেকচার)
-- [🐍 100 Days of Python](#-100-days-of-python)
 - [🗺️ The Gameplan at a Glance](#️-the-gameplan-at-a-glance)
 
 ---
