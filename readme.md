@@ -723,7 +723,8 @@ If this roadmap helped you, please consider:
 
 <div align="center">
 
-### Made with ❤️ for the DevSecOps Community
+**### Made with Nayem Ahammad
+                        for the DevSecOps Community**
 
 **Last Updated**: July 17, 2026**
 
