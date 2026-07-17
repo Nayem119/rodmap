@@ -1,78 +1,299 @@
 # 🚀 DevSecOps Master Roadmap
 
-<p align="center">
+<div align="center">
 
-![Duration](https://img.shields.io/badge/Duration-3_Years-blue?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner_to_Expert-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-3_Years-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Beginner_to_Expert-00AA00?style=for-the-badge&logo=sublimetext&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-FF6B6B?style=for-the-badge&logo=opensource&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
+**✨ A comprehensive 3-year journey from zero to DevSecOps expert ✨**
 
-## 🌟 Overview
-
-A production-grade roadmap covering:
-
-- 🐍 Python
-- 💻 Full-Stack Development
-- 🔐 Cyber Security
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ CI/CD
-- 🛡️ DevSecOps
-
-## ✨ Features
-
-- 3-Year structured roadmap
-- Weekly milestones
-- Hands-on projects
-- Certification preparation
-- Capstone architecture
-- Interview preparation
-- Portfolio guidance
-
-## 📊 Statistics
-
-| Item | Count |
-|------|------:|
-| Projects | 40+ |
-| Labs | 150+ |
-| LeetCode | 300+ |
-| Certifications | 8+ |
+</div>
 
 ---
 
+## 📌 Quick Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![DevSecOps](https://img.shields.io/badge/DevSecOps-000000?style=for-the-badge&logo=devsecops&logoColor=white)](https://devsecops.org)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+<div align="center">
 
----
+| 📚 Overview | 🎯 Year 1 | 🔐 Year 2 | ☁️ Year 3 |
+|:---:|:---:|:---:|:---:|
+| [View Overview](#overview) | [Foundations](#-বছর-১-বিস্তারিত-ফাউন্ডেশন) | [Security](#-বছর-২-সাইবার-সিকিউরিটি-মাস্টারি) | [DevSecOps](#️-বছর-৩-ক্লাউড-কন্টেইনার--devsecops) |
 
-## 📋 সূচিপত্র
-
-- [🎯 ৩-বছরের সংক্ষিপ্ত ওভারভিউ](#-৩-বছরের-সংক্ষিপ্ত-ওভারভিউ)
-- [📅 বছর ১: বিস্তারিত ফাউন্ডেশন](#-বছর-১-বিস্তারিত-ফাউন্ডেশন)
-  - [মাস ১-৩: পাইথন অ্যাডভান্সড + DSA + Linux](#মাস-১-৩-পাইথন-অ্যাডভান্সড--dsa--linux)
-  - [মাস ৪-৬: JavaScript + React + Tailwind](#মাস-৪-৬-javascript--react--tailwind)
-  - [মাস ৭-৯: Node.js + Express + MongoDB](#মাস-৭-৯-nodejs--express--mongodb)
-  - [মাস ১০-১২: Django + PostgreSQL](#মাস-১০-১২-django--postgresql)
-- [🔐 বছর ২: সাইবার সিকিউরিটি মাস্টারি](#-বছর-২-সাইবার-সিকিউরিটি-মাস্টারি)
-  - [মাস ১৩-১৫: নেটওয়ার্কিং ফাউন্ডেশন](#মাস-১৩-১৫-নেটওয়ার্কিং-ফাউন্ডেশন)
-  - [মাস ১৬-১৮: OWASP Top 10 & ওয়েব পেনটেস্টিং](#মাস-১৬-১৮-owasp-top-10--ওয়েব-পেনটেস্টিং)
-  - [মাস ১৯-২১: পাইথন ফর সিকিউরিটি](#মাস-১৯-২১-পাইথন-ফর-সিকিউরিটি)
-  - [মাস ২২-২৪: SOC, SIEM & ফরেনসিক্স](#মাস-২২-২৪-soc-siem--ফরেনসিক্স)
-- [☁️ বছর ৩: ক্লাউড, কন্টেইনার & DevSecOps](#️-বছর-৩-ক্লাউড-কন্টেইনার--devsecops)
-  - [মাস ২৫-২৭: AWS সম্পূর্ণ গাইড](#মাস-২৫-২৭-aws-সম্পূর্ণ-গাইড)
-  - [মাস ২৮-৩০: Docker, Kubernetes & CI/CD](#মাস-২৮-৩০-docker-kubernetes--cicd)
-  - [মাস ৩১-৩৩: Terraform, ArgoCD & Monitoring](#মাস-৩১-৩৩-terraform-argocd--monitoring)
-  - [মাস ৩৪-৩৬: ক্যাপস্টোন প্রজেক্ট](#মাস-৩৪-৩৬-ক্যাপস্টোন-প্রজেক্ট)
-- [🗺️ The Gameplan at a Glance](#️-the-gameplan-at-a-glance)
+</div>
 
 ---
 
-## 🎯 ৩-বছরের সংক্ষিপ্ত ওভারভিউ
+## <a id="overview"></a>🌟 Overview
+
+> **Transform from beginner to production-ready professional in 36 months**
+
+A meticulously structured roadmap that covers the complete spectrum of modern software development and security:
+
+<table>
+  <tr>
+    <td align="center">
+      <b>🐍 Python</b><br>
+      Advanced Programming
+    </td>
+    <td align="center">
+      <b>💻 Full-Stack</b><br>
+      Web Development
+    </td>
+    <td align="center">
+      <b>🔐 Cybersecurity</b><br>
+      Ethical Hacking
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>☁️ AWS</b><br>
+      Cloud Architecture
+    </td>
+    <td align="center">
+      <b>🐳 Docker</b><br>
+      Containerization
+    </td>
+    <td align="center">
+      <b>☸️ Kubernetes</b><br>
+      Orchestration
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ CI/CD</b><br>
+      Automation
+    </td>
+    <td align="center">
+      <b>🛡️ DevSecOps</b><br>
+      Secure Operations
+    </td>
+    <td align="center">
+      <b>📊 Monitoring</b><br>
+      Observability
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Key Features & Highlights
+
+<details open>
+<summary><b>📋 What Makes This Roadmap Different?</b></summary>
+
+- ✅ **Structured Progression**: 36 months of carefully sequenced learning
+- ✅ **40+ Hands-On Projects**: Real-world applications you can showcase
+- ✅ **150+ Lab Exercises**: Practical, production-grade scenarios
+- ✅ **300+ LeetCode Problems**: Interview preparation included
+- ✅ **8+ Certifications**: Industry-recognized credentials
+- ✅ **Weekly Milestones**: Track your progress consistently
+- ✅ **Portfolio Building**: Create impressive GitHub contributions
+- ✅ **Interview Preparation**: Mock questions & system design patterns
+
+</details>
+
+---
+
+## 📊 At-a-Glance Statistics
+
+```
+┌─────────────────────────────────────────────┐
+│  ROADMAP STATISTICS                         │
+├─────────────────────────────────────────────┤
+│  📅 Duration:              36 Months (3 Yrs)│
+│  💻 Projects:              40+ Full Projects│
+│  🧪 Lab Exercises:         150+ Hands-on    │
+│  🎯 LeetCode Problems:     300+ Solved      │
+│  🏆 Certifications:        8+ Credentials   │
+│  📈 Skill Levels Covered:  5 (Beginner→Exp) │
+│  🌍 Technologies:          20+ Major Stack  │
+│  📖 Topics Covered:        100+ In-depth    │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🔗 Community & Resources
+
+<div align="center">
+
+| Platform | Link | Status |
+|:---:|:---:|:---:|
+| [![GitHub](https://img.shields.io/badge/GitHub-Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com) | Source Code | ✅ Active |
+| [![DevSecOps](https://img.shields.io/badge/DevSecOps-Learn_More-000000?style=for-the-badge&logo=security&logoColor=white)](https://devsecops.org) | Official Site | ✅ Available |
+| [![AWS](https://img.shields.io/badge/AWS-Cloud_Platform-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com) | Cloud Provider | ✅ Active |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) | Container Orchestration | ✅ Active |
+
+</div>
+
+
+---
+
+## 🚀 Quick Start Guide (Get Started in 5 Minutes)
+
+<details>
+<summary><b>⚡ Setup Your Development Environment</b></summary>
+
+### Prerequisites
+
+- **Operating System**: Windows, macOS, or Linux
+- **Internet Connection**: For downloading tools and resources  
+- **Text Editor**: VS Code recommended
+- **Time Commitment**: 4-6 hours daily for 36 months
+
+### Essential Tools Installation
+
+\\\ash
+# Python 3.10+
+https://www.python.org/downloads/
+
+# Node.js 18+  
+https://nodejs.org/
+
+# Git
+https://git-scm.com/
+
+# VS Code
+https://code.visualstudio.com/
+
+# Recommended VS Code Extensions:
+# - Python, Pylance
+# - JavaScript (ES6) Code Snippets
+# - REST Client
+# - Docker, Kubernetes
+# - GitLens
+\\\
+
+### First Steps
+
+1. **Create Learning Repository**
+   - Fork or clone this roadmap
+   - Create a personal branch with your name
+   - Start making commits daily
+
+2. **Set Up Learning Journal**
+   - Create a PROGRESS.md file
+   - Update it weekly with accomplishments
+   - Track completed projects
+
+3. **Join Communities**
+   - r/learnprogramming
+   - r/devsecops
+   - GitHub communities
+
+4. **Start Your GitHub Green Calendar**
+   - Commit code daily
+   - Document your journey
+   - Build your portfolio
+
+</details>
+
+---
+
+## 📋 Table of Contents & Navigation
+
+> **Navigate Your 3-Year Learning Journey:**
+
+<details open>
+<summary><b>🎯 Click to expand Navigation Menu</b></summary>
+
+### 📌 Foundation & Overview
+- **[🎯 3-Year Overview](#-৩-বছরের-সংক্ষिপ्त-ओভারभ्यु)** — Complete learning path
+
+### 📚 **Year 1: Full-Stack Web Development Foundation**
+- **[📅 Year 1 Complete Guide](#-बছร-१-बिस्तारित-फाउन्डेशन)**
+  - 🐍 [Q1: Python Advanced + DSA + Linux (Months 1-3)](#मास-१-३-पाइथन-अ्यादभ्ट--dsa--linux)
+  - 🌐 [Q2: JavaScript + React + Tailwind (Months 4-6)](#मास-४-६-javascript--react--tailwind)
+  - 🔧 [Q3: Node.js + Express + MongoDB (Months 7-9)](#मास-७-९-nodejs--express--mongodb)
+  - 🎯 [Q4: Django + PostgreSQL (Months 10-12)](#मास-१०-१२-django--postgresql)
+
+### 🔐 **Year 2: Cybersecurity & Ethical Hacking**
+- **[🔐 Year 2 Security Path](#-बछur-२-साइबur-सिकिuरितl-मास्टuरि)**
+  - 🌐 [Q1: Networking Fundamentals (Months 13-15)](#मास-१३-१५-नेटवर्किङ-फाउन्डेशन)
+  - 🎭 [Q2: OWASP Top 10 & Web Pentesting (Months 16-18)](#मास-१६-१८-owasp-top-10--वेब-पेन्टेस्टिङ)
+  - 🐍 [Q3: Python for Security (Months 19-21)](#मास-१९-२१-पाइथन-फur-सिकिuरितl)
+  - 🛡️ [Q4: SOC, SIEM & Forensics (Months 22-24)](#मास-२२-२४-soc-siem--फरेन्सिक्स)
+
+### ☁️ **Year 3: Cloud Infrastructure & DevSecOps**
+- **[☁️ Year 3 DevOps Excellence](#️-बछur-३-क्लाuड-कन्टेinur--devsecops)**
+  - ☁️ [Q1: AWS Complete Guide (Months 25-27)](#मास-२५-२७-aws-सम्पूर्ण-गाइड)
+  - 🐳 [Q2: Docker, Kubernetes & CI/CD (Months 28-30)](#मास-२८-३०-docker-kubernetes--cicd)
+  - 🔄 [Q3: Terraform, ArgoCD & Monitoring (Months 31-33)](#मास-३१-३३-terraform-argocd--monitoring)
+  - 🏆 [Q4: Capstone Project (Months 34-36)](#मास-३४-३६-क्यापस्टोन-प्रजेक्ट)
+
+### 📊 **Additional Resources**
+- [🗺️ Quick Reference Chart](#️-the-gameplan-at-a-glance)
+
+</details>
+---
+
+## 🎯 3-Year Learning Journey Overview
+
+<blockquote>
+<h3>🚀 From Zero to DevSecOps Expert</h3>
+
+This roadmap transforms you from a complete beginner into a <b>production-ready full-stack developer</b>, <b>cybersecurity professional</b>, and ultimately a <b>complete DevSecOps engineer</b> — all within 36 months.
+</blockquote>
+
+### 📊 Roadmap Structure Summary
+
+| Phase | Primary Focus | Duration | Key Technologies | Deliverables |
+|:---:|:---|:---:|:---|:---|
+| **Year 1** | Full-Stack Web Dev | 12 months | Python, JS, React, Node.js, Django | 5+ projects, 150+ LeetCode, Portfolio |
+| **Year 2** | Cybersecurity Mastery | 12 months | Networking, OWASP, Burp Suite, Metasploit | Security portfolio, 20+ labs, Certs |
+| **Year 3** | Cloud & DevSecOps | 12 months | AWS, Docker, K8s, Terraform, ArgoCD | Capstone project, Full deployment |
+
+---
+
+## 🎓 Learning Methodology & Success Tips
+
+<details>
+<summary><b>📚 How to Use This Roadmap Effectively</b></summary>
+
+### ✨ Core Principles
+
+| Principle | Description | Benefit |
+|:---:|:---|:---|
+| **Consistency** | Dedicate 4-6 hours daily | Faster skill development |
+| **Projects First** | Apply concepts immediately | Practical experience & portfolio |
+| **Regular Reviews** | Revisit topics monthly | Strong foundation & retention |
+| **Community** | Join forums & Discord | Networking & peer learning |
+| **Certification** | Pursue industry certs | Professional credibility |
+
+### 📅 Recommended Weekly Schedule
+
+- **Monday-Wednesday**: Concept Learning + Theory (12-15 hours)
+- **Thursday-Friday**: Hands-on Labs + Coding (12-15 hours)
+- **Saturday-Sunday**: Projects + Review (8-10 hours)
+
+### 🎯 Success Metrics
+
+- Complete all weekly milestones on schedule
+- Build portfolio with 5+ quality projects
+- Maintain GitHub contributions daily (GitHub Green Calendar)
+- Solve 300+ LeetCode problems across all difficulty levels
+- Pursue 8+ industry certifications
+- Document learning in blog posts or GitHub README
+
+</details>
+
+---
+
+## 🏆 Checkpoint Achievements & Badges
+
+| Milestone | Target | Timeline | Badge |
+|:---:|:---|:---:|:---:|
+| **Q1 Complete** | 50+ LeetCode, 1st project live | Months 1-3 | 🥉 Bronze |
+| **Q2 Complete** | React app deployed, Responsive UI | Months 4-6 | 🥈 Silver |
+| **Q3 Complete** | REST APIs live, DB optimization | Months 7-9 | 🥇 Gold |
+| **Year 1 Master** | Full-stack e-commerce, 150+ LeetCode | Month 12 | 🏆 Platinum |
+| **Year 2 Master** | Security certs, Pentest reports | Month 24 | 🛡️ Security Expert |
+| **Year 3 Master** | Capstone deployed, K8s certified | Month 36 | 👑 DevSecOps Master |
+
+---
+
 
 > **শূন্য থেকে হিরো**: এই রোডম্যাপটি এমনভাবে ডিজাইন করা হয়েছে যাতে আপনি শূন্য থেকে শুরু করে ৩ বছরের মধ্যে একজন **প্রোডাকশন-রেডি ফুল-স্ট্যাক ডেভেলপার**, **সাইবার সিকিউরিটি প্রফেশনাল** এবং পরিশেষে একজন **পূর্ণাঙ্গ DevSecOps ইঞ্জিনিয়ার** হিসেবে নিজেকে গড়ে তুলতে পারেন।
 
@@ -399,4 +620,112 @@ A production-grade roadmap covering:
 > **An Elite, Production-Grade Path:** From Absolute Zero to Full-Stack Developer, Cyber Security Specialist, and ultimately a World-Class DevSecOps Engineer.
 
 ---
+
+
+
+---
+
+## 📚 Recommended Learning Resources
+
+### 🎓 Online Platforms
+- **[freeCodeCamp](https://freecodecamp.org)** - Free comprehensive courses
+- **[Codecademy](https://codecademy.com)** - Interactive coding lessons
+- **[Coursera](https://coursera.org)** - University-level courses
+- **[Udemy](https://udemy.com)** - Affordable specialized courses
+- **[YouTube](https://youtube.com)** - Free tutorials & channels
+
+### 📖 Documentation
+- [Python Official Docs](https://docs.python.org/)
+- [MDN Web Docs](https://developer.mozilla.org/)
+- [Node.js Documentation](https://nodejs.org/docs/)
+- [Docker Documentation](https://docs.docker.com/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [AWS Documentation](https://docs.aws.amazon.com/)
+
+### 🏆 Certification Programs
+- **AWS**: AWS Certified Solutions Architect
+- **Security+**: CompTIA Security+ Certification
+- **CISSP**: Certified Information Systems Security Professional
+- **Docker**: Docker Certified Associate
+- **Kubernetes**: CKAD & CKA Certifications
+- **Google Cloud**: Google Cloud Associate Cloud Engineer
+
+---
+
+## 🤝 Contributing to This Roadmap
+
+<details>
+<summary><b>💡 How to Contribute</b></summary>
+
+We welcome contributions! Here's how you can help:
+
+### 🐛 Report Issues
+- Found a typo or error?
+- Something doesn't make sense?
+- Create an issue on GitHub!
+
+### 📝 Suggest Improvements
+- Have a better resource recommendation?
+- Want to add a new section?
+- Submit a pull request with your changes!
+
+### 🎓 Share Your Journey
+- Completed a milestone?
+- Built an awesome project?
+- Share it with the community!
+
+### 📢 Spread the Word
+- Star ⭐ this repository
+- Share with friends and colleagues
+- Tag us on social media
+
+</details>
+
+---
+
+## 📄 License & Attribution
+
+This roadmap is provided under the **MIT License**.
+
+### Attribution
+- Created with ❤️ by the DevSecOps community
+- Inspired by the journey of thousands of developers
+- Continuously updated based on community feedback
+
+### Disclaimer
+- This is a suggested learning path, not a guarantee
+- Learning pace varies for each individual
+- Adapt this roadmap to your personal needs and pace
+- Always practice ethical hacking and cybersecurity principles
+
+---
+
+## 🌟 Show Your Support
+
+<div align="center">
+
+If this roadmap helped you, please consider:
+
+- ⭐ **Starring** this repository
+- 🔗 **Sharing** with your network
+- 💬 **Contributing** feedback or improvements
+- 🙏 **Following** for updates
+
+### Connect With Us
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Made with ❤️ for the DevSecOps Community
+
+**Last Updated**: July 17, 2026**
+
+</div>
 
