@@ -83,14 +83,14 @@ A meticulously structured roadmap that covers the complete spectrum of modern so
 <details open>
 <summary><b>📋 What Makes This Roadmap Different?</b></summary>
 
-- ✅ **Structured Progression**: 36 months of carefully sequenced learning
-- ✅ **40+ Hands-On Projects**: Real-world applications you can showcase
-- ✅ **150+ Lab Exercises**: Practical, production-grade scenarios
-- ✅ **300+ LeetCode Problems**: Interview preparation included
-- ✅ **8+ Certifications**: Industry-recognized credentials
-- ✅ **Weekly Milestones**: Track your progress consistently
-- ✅ **Portfolio Building**: Create impressive GitHub contributions
-- ✅ **Interview Preparation**: Mock questions & system design patterns
+-  **Structured Progression**: 36 months of carefully sequenced learning
+-  **40+ Hands-On Projects**: Real-world applications you can showcase
+-  **150+ Lab Exercises**: Practical, production-grade scenarios
+-  **300+ LeetCode Problems**: Interview preparation included
+-  **8+ Certifications**: Industry-recognized credentials
+-  **Weekly Milestones**: Track your progress consistently
+-  **Portfolio Building**: Create impressive GitHub contributions
+-  **Interview Preparation**: Mock questions & system design patterns
 
 </details>
 
